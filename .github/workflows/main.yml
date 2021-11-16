@@ -18,4 +18,4 @@ jobs:
         with:
           project: Test Project
           column: Done
-          repo-token: ${{ secrets.REPO_PAT }}
+          token: ${{ secrets.REPO_PAT }}
